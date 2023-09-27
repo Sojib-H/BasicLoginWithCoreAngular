@@ -1,0 +1,48 @@
+F:\Angular and .Net Project\BasicLogin\BasicLogin.Infrastructure\bin\Debug\net6.0\BasicLogin.Infrastructure.deps.json
+F:\Angular and .Net Project\BasicLogin\BasicLogin.Infrastructure\bin\Debug\net6.0\BasicLogin.Infrastructure.dll
+F:\Angular and .Net Project\BasicLogin\BasicLogin.Infrastructure\bin\Debug\net6.0\BasicLogin.Infrastructure.pdb
+F:\Angular and .Net Project\BasicLogin\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.csproj.AssemblyReference.cache
+F:\Angular and .Net Project\BasicLogin\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Angular and .Net Project\BasicLogin\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.AssemblyInfoInputs.cache
+F:\Angular and .Net Project\BasicLogin\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.AssemblyInfo.cs
+F:\Angular and .Net Project\BasicLogin\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Angular and .Net Project\BasicLogin\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.dll
+F:\Angular and .Net Project\BasicLogin\BasicLogin.Infrastructure\obj\Debug\net6.0\refint\BasicLogin.Infrastructure.dll
+F:\Angular and .Net Project\BasicLogin\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.pdb
+F:\Angular and .Net Project\BasicLogin\BasicLogin.Infrastructure\obj\Debug\net6.0\ref\BasicLogin.Infrastructure.dll
+E:\Sojib\Demo Projects\Combaine Projects\SbAdminTemplatingAngular\BasicLogin.Infrastructure\bin\Debug\net6.0\BasicLogin.Infrastructure.deps.json
+E:\Sojib\Demo Projects\Combaine Projects\SbAdminTemplatingAngular\BasicLogin.Infrastructure\bin\Debug\net6.0\BasicLogin.Infrastructure.dll
+E:\Sojib\Demo Projects\Combaine Projects\SbAdminTemplatingAngular\BasicLogin.Infrastructure\bin\Debug\net6.0\BasicLogin.Infrastructure.pdb
+E:\Sojib\Demo Projects\Combaine Projects\SbAdminTemplatingAngular\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.csproj.AssemblyReference.cache
+E:\Sojib\Demo Projects\Combaine Projects\SbAdminTemplatingAngular\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sojib\Demo Projects\Combaine Projects\SbAdminTemplatingAngular\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.AssemblyInfoInputs.cache
+E:\Sojib\Demo Projects\Combaine Projects\SbAdminTemplatingAngular\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.AssemblyInfo.cs
+E:\Sojib\Demo Projects\Combaine Projects\SbAdminTemplatingAngular\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Sojib\Demo Projects\Combaine Projects\SbAdminTemplatingAngular\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.dll
+E:\Sojib\Demo Projects\Combaine Projects\SbAdminTemplatingAngular\BasicLogin.Infrastructure\obj\Debug\net6.0\refint\BasicLogin.Infrastructure.dll
+E:\Sojib\Demo Projects\Combaine Projects\SbAdminTemplatingAngular\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.pdb
+E:\Sojib\Demo Projects\Combaine Projects\SbAdminTemplatingAngular\BasicLogin.Infrastructure\obj\Debug\net6.0\ref\BasicLogin.Infrastructure.dll
+E:\Sojib\Demo Projects\Combaine Projects\BasicLogin\BasicLogin.Infrastructure\bin\Debug\net6.0\BasicLogin.Infrastructure.deps.json
+E:\Sojib\Demo Projects\Combaine Projects\BasicLogin\BasicLogin.Infrastructure\bin\Debug\net6.0\BasicLogin.Infrastructure.dll
+E:\Sojib\Demo Projects\Combaine Projects\BasicLogin\BasicLogin.Infrastructure\bin\Debug\net6.0\BasicLogin.Infrastructure.pdb
+E:\Sojib\Demo Projects\Combaine Projects\BasicLogin\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.csproj.AssemblyReference.cache
+E:\Sojib\Demo Projects\Combaine Projects\BasicLogin\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sojib\Demo Projects\Combaine Projects\BasicLogin\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.AssemblyInfoInputs.cache
+E:\Sojib\Demo Projects\Combaine Projects\BasicLogin\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.AssemblyInfo.cs
+E:\Sojib\Demo Projects\Combaine Projects\BasicLogin\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Sojib\Demo Projects\Combaine Projects\BasicLogin\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.dll
+E:\Sojib\Demo Projects\Combaine Projects\BasicLogin\BasicLogin.Infrastructure\obj\Debug\net6.0\refint\BasicLogin.Infrastructure.dll
+E:\Sojib\Demo Projects\Combaine Projects\BasicLogin\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.pdb
+E:\Sojib\Demo Projects\Combaine Projects\BasicLogin\BasicLogin.Infrastructure\obj\Debug\net6.0\ref\BasicLogin.Infrastructure.dll
+E:\Sojib\Demo Projects\Combaine Projects\BasicLoginWithCoreAngular\BasicLogin.Infrastructure\bin\Debug\net6.0\BasicLogin.Infrastructure.deps.json
+E:\Sojib\Demo Projects\Combaine Projects\BasicLoginWithCoreAngular\BasicLogin.Infrastructure\bin\Debug\net6.0\BasicLogin.Infrastructure.dll
+E:\Sojib\Demo Projects\Combaine Projects\BasicLoginWithCoreAngular\BasicLogin.Infrastructure\bin\Debug\net6.0\BasicLogin.Infrastructure.pdb
+E:\Sojib\Demo Projects\Combaine Projects\BasicLoginWithCoreAngular\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.csproj.AssemblyReference.cache
+E:\Sojib\Demo Projects\Combaine Projects\BasicLoginWithCoreAngular\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sojib\Demo Projects\Combaine Projects\BasicLoginWithCoreAngular\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.AssemblyInfoInputs.cache
+E:\Sojib\Demo Projects\Combaine Projects\BasicLoginWithCoreAngular\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.AssemblyInfo.cs
+E:\Sojib\Demo Projects\Combaine Projects\BasicLoginWithCoreAngular\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Sojib\Demo Projects\Combaine Projects\BasicLoginWithCoreAngular\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.dll
+E:\Sojib\Demo Projects\Combaine Projects\BasicLoginWithCoreAngular\BasicLogin.Infrastructure\obj\Debug\net6.0\refint\BasicLogin.Infrastructure.dll
+E:\Sojib\Demo Projects\Combaine Projects\BasicLoginWithCoreAngular\BasicLogin.Infrastructure\obj\Debug\net6.0\BasicLogin.Infrastructure.pdb
+E:\Sojib\Demo Projects\Combaine Projects\BasicLoginWithCoreAngular\BasicLogin.Infrastructure\obj\Debug\net6.0\ref\BasicLogin.Infrastructure.dll

@@ -1,0 +1,35 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+
+  "ConfigurationOption": {
+    "DbServer": "(local)",
+    "DbName": "CRUD",
+    "Provider": "SQLSERVER",
+    "TokenExpiration": 30,
+    //"Port": 1523,
+    "WebUrl": "http://localhost:5278/"
+  },
+
+  //"SmtpConfig": {
+  //  "UserID": null,
+  //  "Subject": null,
+  //  "Message": null,
+  //  "FromAddress": "tofailinventory@gmail.com",
+  //  "Host": "smtp.gmail.com",
+  //  "Port": 587,
+  //  "Username": "tofailinventory@gmail.com",
+  //  "Password": "tofailinventory784789854",
+  //  "EnableSsl": true,
+  //  "DefaultCredential": false,
+  //  "IsBodyHtml": false
+  //},
+
+  "AllowedHosts": "*"
+
+}
